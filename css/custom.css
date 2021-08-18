@@ -1,0 +1,213 @@
+/*header　トップページのみ下部固定から*/
+#header{
+	bottom:0px;
+	top: initial;
+	border-top: none;
+	position: absolute;
+}
+/*メインエリア*/
+#main {
+	background-image: url(../images/main.png);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: 100%;
+	width: 100%;
+	height: calc(100vh - 66px);
+	min-height: 600px;
+	text-align: center;
+	padding: 0px 25px 0;
+	position: relative;
+	margin: 0 0 66px;
+}
+#main .main-inner{
+	position: absolute;
+	top: 40%;
+	left: 50%;
+	width: 100%;
+	padding: 0 20px;
+	transform: translateY(-50%) translateX(-50%);
+	-webkit-transform: translateY(-50%) translateX(-50%);
+}
+#main h1{
+	padding: 60px 0px 0;
+	color: #C08D4E;
+	font-size: 40px;
+	line-height: 70px;
+	letter-spacing: 4px;
+	font-weight: 600;
+	font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
+}
+#scroll a {
+	position: absolute;
+	bottom: 30px;
+	left: 50%;
+	z-index: 2;
+	margin-left: -32px;
+	display: inline-block;
+	-webkit-transform: translate(0, -50%);
+	transform: translate(0, -50%);
+	text-decoration: none;
+	padding-top: 90px;
+	color: #C08D4E;
+	font-size: 22px;
+	font-family: '游明朝','Yu Mincho',YuMincho,'Hiragino Mincho Pro',serif;
+}
+#scroll a span {
+	position: absolute;
+	top: 0;
+	left: 50%;
+	width: 22px;
+	height: 80px;
+	margin-left: 0px;
+	border-left: 1px solid #C08D4E;
+	box-sizing: border-box;
+}
+#scroll a span:before {
+	content: "";
+	position: absolute;
+	bottom: 0;
+	right: 15px;
+	width: 1px;
+	height: 16px;
+	background: #C08D4E;
+	transform: skewX(-35deg);
+}
+/*委員長からのメッセージエリア*/
+#message {
+	background-color: #FAFAFA;
+	text-align: center;
+}
+#message .area-box{
+	padding: 70px;
+}
+#message .message-ph{
+	width: 18%;
+	text-align: left;
+}
+#message .message-ph img{
+	width: 100%;
+	padding: 0 0 15px;
+}
+#message .message-ph span{
+	display: block;
+	font-size: 14px;
+	line-height: 22px;
+	padding: 0 0 15px;
+}
+#message .message-ph span.name{
+	font-size: 20px;
+	line-height: 26px;
+	font-weight: bold;
+}
+#message .message-txt{
+	width: 74%;
+	text-align: left;
+}
+/*記念式典のスケジュールエリア*/
+#schedule {
+	text-align: center;
+}
+#schedule dl{
+	width: 500px;
+	margin: 0 auto 30px;
+}
+#schedule dt {
+	float: left;
+	clear: left;
+	margin-right: 10px;
+	padding: 0 0 10px;
+	color: #604C3F;
+	font-size: 18px;
+	font-weight: bold;
+}
+#schedule dd {
+	float: left;
+	padding: 0 0 10px;
+	font-size: 18px;
+	font-weight: bold;
+}
+#schedule .heading {
+	color: #604C3F;
+}
+#schedule .free-table {
+	width: 500px;
+	margin: 0 auto 20px;
+}
+#schedule p{
+	text-align: left;
+	padding: 0px 0 15px;
+	font-size: 16px;
+	font-weight: bold;
+}
+#schedule p.heading{
+	text-align: left;
+	padding: 10px 0 10px;
+	color: #604C3F;
+	font-size: 18px;
+}
+@media (max-width: 834px) { 
+	/*header　トップページのみ下部固定から*/
+	#header{
+		bottom:initial;
+		top: 0px;
+		border-top: solid 3px #604C3F;
+		position: fixed;
+	}
+	/*メインエリア*/
+	#main {
+		background-image: url(../images/main-sp.png);
+		height: 100vh;
+		min-height: 100%;
+		margin: 0;
+	}
+	#main .logo-anniv {
+		width: 140px;
+		margin: 0 auto;
+	}
+	#main h1 {
+		padding: 35px 0px 30px;
+		font-size: 26px;
+		line-height: 46px;
+	}
+	#main .years {
+		width: 300px;
+		margin: 0 auto;
+	}
+	#scroll a {
+		bottom: 0px;
+		margin-left: -22px;
+		padding-top: 74px;
+		font-size: 16px;
+	}
+	#scroll a span {
+		width: 22px;
+		height: 64px;
+	}
+	/*委員長からのメッセージエリア*/
+	#message .area-box{
+		padding: 70px 20px;
+		border: none;
+	}
+	#message .message-ph{
+		width: 100%;
+		text-align: center;
+		padding: 0 0 25px;
+	}
+	#message .message-ph img{
+		width: 150px;
+		margin: 0 auto;
+	}
+	#message .message-txt{
+		width: 100%;
+	}
+	/*記念式典のスケジュールエリア*/
+	#schedule dl{
+		width: 100%;
+	}
+	#schedule .free-table {
+		width: 100%;
+	}
+
+}
+@media only screen and  (max-width: 321px){
+}

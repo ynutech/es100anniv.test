@@ -1,0 +1,15 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="15" height="17" viewBox="0 0 15 17">
+  <g id="icon-pdf" transform="translate(9851 -6039)">
+    <g id="パス_121" data-name="パス 121" transform="translate(-9849 6039)" fill="#fff">
+      <path d="M 12.5 16.5 L 0.5 16.5 L 0.5 0.5 L 9.732829093933105 0.5 L 12.5 3.221287488937378 L 12.5 16.5 Z" stroke="none"/>
+      <path d="M 1 1 L 1 16 L 12 16 L 12 3.430834770202637 L 9.528179168701172 1 L 1 1 M 0 0 L 9.9375 0 L 13 3.011719703674316 L 13 17 L 0 17 L 0 0 Z" stroke="none" fill="#ff4233"/>
+    </g>
+    <path id="パス_122" data-name="パス 122" d="M3.385.285V4.676H0Z" transform="translate(-9835.857 6039.143) rotate(90)" fill="#ff4233"/>
+    <rect id="長方形_1504" data-name="長方形 1504" width="11" height="6" rx="0.2" transform="translate(-9851 6047)" fill="#ff4233"/>
+    <g id="グループ_131" data-name="グループ 131" transform="translate(-9849.87 6048.267)">
+      <path id="パス_123" data-name="パス 123" d="M537.588,338.28V334.6h1.251a1.093,1.093,0,0,1,1.231,1.11,1.219,1.219,0,0,1-1.311,1.282h-.508v1.287Zm.663-3.127v1.287h.4a.613.613,0,0,0,.693-.665.582.582,0,0,0-.663-.621Z" transform="translate(-537.588 -334.601)" fill="#fff"/>
+      <path id="パス_124" data-name="パス 124" d="M557.846,338.28V334.6h1.442a1.59,1.59,0,0,1,1.728,1.776,1.707,1.707,0,0,1-1.728,1.9Zm.678-3.116v2.564h.7c.623,0,1.07-.475,1.07-1.336s-.473-1.228-1.126-1.228Z" transform="translate(-554.847 -334.601)" fill="#fff"/>
+      <path id="パス_125" data-name="パス 125" d="M582.753,338.28V334.6h2.261v.563h-1.593v1.081h1.367v.558h-1.367v1.478Z" transform="translate(-576.066 -334.601)" fill="#fff"/>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,15 @@
+/*下層ページメインエリア*/
+#main-area .main-ph{
+	background-image: url(../images/main-ph.png);
+	background-size: cover;
+}
+#main-area .area-box{
+	padding: 70px 0;
+}
+@media (max-width: 834px) { 
+	#main-area .area-box{
+		padding: 70px 20px;	
+	}
+}
+@media only screen and  (max-width: 321px){
+}

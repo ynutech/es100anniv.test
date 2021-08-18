@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.047" height="17" viewBox="0 0 17.047 17">
+  <g id="icon-excel" transform="translate(-175.667 -175.956)">
+    <g id="グループ_60" data-name="グループ 60" transform="translate(175.667 175.956)">
+      <path id="パス_126" data-name="パス 126" d="M0,0H7.7l.034,12.746h-8Z" transform="translate(9.121 2)" fill="#fff"/>
+      <path id="パス_115" data-name="パス 115" d="M192.436,177.832h-6.81v-1.876l-9.959,1.76V191.2l9.959,1.76v-2.038h6.81a.279.279,0,0,0,.278-.278V178.11A.279.279,0,0,0,192.436,177.832Zm-.255,12.511h-6.555v-1.255h1.668V187.7h-1.668v-.643h1.668v-1.39h-1.668v-.643h1.668v-1.39h-1.668v-.643h1.668V181.6h-1.668v-.643h1.668v-1.39h-1.668v-1.162h6.555Z" transform="translate(-175.667 -175.956)" fill="#1e5929" fill-rule="evenodd"/>
+      <rect id="長方形_1497" data-name="長方形 1497" width="2.733" height="1.39" transform="translate(12.276 3.613)" fill="#1e5929"/>
+      <rect id="長方形_1498" data-name="長方形 1498" width="2.733" height="1.39" transform="translate(12.276 5.645)" fill="#1e5929"/>
+      <rect id="長方形_1499" data-name="長方形 1499" width="2.733" height="1.39" transform="translate(12.276 7.678)" fill="#1e5929"/>
+      <rect id="長方形_1500" data-name="長方形 1500" width="2.733" height="1.39" transform="translate(12.276 9.71)" fill="#1e5929"/>
+      <rect id="長方形_1501" data-name="長方形 1501" width="2.733" height="1.39" transform="translate(12.276 11.742)" fill="#1e5929"/>
+    </g>
+    <path id="パス_116" data-name="パス 116" d="M199.27,227.361l.948-2.284.938,2.419,1.412.1-1.649-3.168,1.649-3.283-1.345.1-.959,2.446-.893-2.314-1.272.091,1.378,2.918-1.494,2.9" transform="translate(-19.78 -40.053)" fill="#fff" fill-rule="evenodd"/>
+  </g>
+</svg>

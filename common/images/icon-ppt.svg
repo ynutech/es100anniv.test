@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="17.047" height="17" viewBox="0 0 17.047 17">
+  <g id="icon-ppt" transform="translate(-175.667 -175.956)">
+    <g id="グループ_60" data-name="グループ 60" transform="translate(175.667 175.956)">
+      <path id="パス_128" data-name="パス 128" d="M.014.16h7.57L7.525,12.62H.293Z" transform="translate(9.121 2)" fill="#fff"/>
+      <path id="パス_115" data-name="パス 115" d="M192.436,177.832h-6.81v-1.876l-9.959,1.76V191.2l9.959,1.76v-2.038h6.81a.279.279,0,0,0,.278-.278V178.11A.279.279,0,0,0,192.436,177.832Zm-.255,12.511h-6.555V188.78h5.881V187.7h-5.881v-.95h5.881v-1.082h-5.881v-7.259h6.555Z" transform="translate(-175.667 -175.956)" fill="#d14424" fill-rule="evenodd"/>
+      <path id="パス_118" data-name="パス 118" d="M2.384,0V2.384s2.416.033,2.384,0A2.384,2.384,0,1,1,2.384,0Z" transform="translate(9.658 4.145)" fill="#d14424"/>
+      <path id="パス_119" data-name="パス 119" d="M0,0S2.347.032,2.315,0A2.315,2.315,0,0,1,0,2.315Z" transform="translate(12.322 6.249) rotate(-90)" fill="#d14424"/>
+      <g id="グループ_130" data-name="グループ 130" transform="translate(-534.407 -329.72)">
+        <path id="パス_120" data-name="パス 120" d="M537.588,341.61V334.6h2.089a1.938,1.938,0,0,1,2.055,2.115,2.188,2.188,0,0,1-2.19,2.442H538.7v2.452Zm1.108-5.956v2.452h.671c.722,0,1.158-.419,1.158-1.268a1.04,1.04,0,0,0-1.107-1.184Z" transform="translate(-0.131)" fill="#fff" stroke="#fff" stroke-width="0.2"/>
+      </g>
+    </g>
+  </g>
+</svg>

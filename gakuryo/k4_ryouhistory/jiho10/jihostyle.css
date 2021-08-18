@@ -1,0 +1,15 @@
+body { background: beige; color: black; margin-left: 10em; margin-right: 10em; }
+h1 { background: orange; color: white; font-size: 1.5em; border-radius: 8px; padding-left: 10px; }
+h2 { font-size: 1.2em; }
+p { line-height: 1.5em; }
+em { font-style: normal; font-weight: bold; color: red; }
+a:link { color: darkblue; }
+a:visited { color: purple; }
+a:hover { color: darkorange; }
+p.welcome { text-align: center; }
+p.welcome img { box-shadow: 4px 4px 4px; }
+
+table, td, th { border: 2px solid darkorange; }
+td, th { padding: 4px; }
+th { background: cyan; }
+td { background: lemonchiffon; }
