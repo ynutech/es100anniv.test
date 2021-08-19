@@ -2,3 +2,9 @@ Options Includes FollowSymLinks
 RewriteEngine on
 RewriteCond %{HTTPS} off
 RewriteRule ^(.*)$ https://%{HTTP_HOST}%{REQUEST_URI} [R=301,L]
+
+AuthUserFile /home/es100anniv/public_html/check202109/.htpasswd
+AuthGroupFile /dev/null
+AuthName "ID/PWセットアップ"
+AuthType Basic
+require valid-user
